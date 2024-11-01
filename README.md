@@ -7,9 +7,9 @@ Komunikasi menggunakan protokol UDP yang merupakan protokol connectionless sehin
 
 ### Fitur
 
-- Menggunakan **UDP Socket** untuk komunikasi antar client dan server.
-- **Threading** digunakan untuk memastikan server dapat menangani beberapa client secara bersamaan.
-- User Interface GUI untuk server dan client dibuat menggunakan **tkinter**.
+- Menggunakan UDP Socket untuk komunikasi antar client dan server.
+- Threading digunakan untuk memastikan server dapat menangani beberapa client secara bersamaan.
+- User Interface GUI untuk server dan client dibuat menggunakan tkinter.
 - Proses autentikasi client dengan password dan username.
 - Pesan dari client yang valid akan diteruskan (broadcast) ke semua client yang terhubung.
 
